@@ -4,6 +4,6 @@ Modern web developers rarely start from scratch anymore. Many of us use framewor
 
 That said, there's still value in creating your own grid from scratch to solidify some of the most elusive concepts behind writing great HTML and CSS.
 
-**Challenge:** Fork and clone the <a href="https://github.com/sf-wdi-24/css-grid-challenges" target="_blank">css-grid-challenges</a> repo, then add CSS styles try to match this design:
+**Challenge:** Fork and clone this repo, then add CSS styles try to match this design:
 
 ![ducky-design](https://cloud.githubusercontent.com/assets/7833470/10686168/389ac60e-7916-11e5-8e87-013509a89a38.png)
