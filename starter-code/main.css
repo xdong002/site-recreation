@@ -10,42 +10,72 @@ h1, h2 {
   font-family: 'Rock Salt', cursive;
   margin: 0;
 }
-img {
 
+h1 {
+  font-size: 2.5em;
+}
+
+img {
+  border: 2px dashed blue;
+  padding: 10px;
+  margin: 20px;
 }
 input {
-
+  padding: 5px;
 }
 button {
-
+  border-radius: 5px;
+  padding: 5px;
 }
 nav ul {
-
+  padding: 5px;
 }
 nav ul li {
-
+ display: inline-block;
+ padding: 10px 20px;
 }
 .header {
-
+  background-color: lightblue;
+  border-bottom:  1px solid black;
 }
 .header h1 {
-
+  display: inline-block;
+  vertical-align: top;
+  margin: 50px 0 0 0;
 }
 .footer {
+  background-color: gray;
+  height: 250px;
+  padding: 20px;
 
 }
 .content {
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 20px;
+  max-width: 1024px;
 
 }
 .row {
-
+ margin-top: 20px;
 }
+
 .column {
-
+  display: inline-block;
+  border: 2px solid black;
+  margin: 10px;
+  width: 30%;
+  vertical-align: top;
 }
+
 .note {
-
+  min-height: 180px;
+  background-color: navy;
+  color: white;
+  padding: 10px 20px;
 }
-.request {
 
+.request {
+  min-height: 180px;
+  padding: 10px 20px;
 }
